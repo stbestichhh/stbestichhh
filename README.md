@@ -30,8 +30,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/stbestichhh/stbestichhh/blob/output/snake.svg" alt="Snake animation" />
-
-###
