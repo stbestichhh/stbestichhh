@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiril</h1>
 <h3 align="center">A young software developer form Ukraine</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stbestichhh" alt="stbestichhh" /></a> </p>
+
 
 - 🌱 I’m currently learning **.NET MAUI, C#, Swift**
 
