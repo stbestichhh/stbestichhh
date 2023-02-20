@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **.NET MAUI, C#, Swift**
+- 🌱 I’m currently learning **.NET MAUI
 
 - 📫 How to reach me **stbestich@gmail.com**
 
