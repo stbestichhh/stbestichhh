@@ -1,5 +1,8 @@
 # My Projects
 
+### DoNow
+ **[Repository](https://github.com/stbestichhh/DoNow) | [Installation](https://github.com/stbestichhh/DoNow#installation)**
+
 ### Weather Forecast App
   **[Repository](https://github.com/stbestichhh/Weather-Forecast) | [Latest Release](https://github.com/stbestichhh/Weather-Forecast/releases/tag/v2.0.0) | [Instalation](https://github.com/stbestichhh/Weather-Forecast/blob/master/README.md#app-instalation)**
 
