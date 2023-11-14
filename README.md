@@ -1,6 +1,6 @@
 <code>🎓 Student: KPI / IM-24</code>
 <code>👷 Speciality: Software engineer </code><br>
-<code>🧑‍💻 Languages: JavaScript, C#</code>
+<code>🧑‍💻 Languages: TypeScript, C#</code>
 <code>🎯 Skills: React Native</code>
 <code>🏗️ Contributions</code>
 <code>📚 [Projects](https://github.com/stbestichhh/stbestichhh/blob/main/PROJECTS.md)</code><br>
