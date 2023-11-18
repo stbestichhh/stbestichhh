@@ -1,5 +1,8 @@
 # My Projects
 
+### Flowly
+ **[Repository](https://github.com/stbestichhh/Flowly) | [Instalation](https://github.com/stbestichhh/Flowly#installation) | [Latest Release](https://github.com/stbestichhh/Flowly/releases/tag/v1.0.0-alpha)**
+
 ### DoNow
  **[Repository](https://github.com/stbestichhh/DoNow) | [Installation](https://github.com/stbestichhh/DoNow#installation)**
 
