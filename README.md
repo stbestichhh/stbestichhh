@@ -1,6 +1,6 @@
 <code>🎓 Student: KPI / IM-24</code>
 <code>👷 Speciality: Software engineer </code><br>
-<code>🧑‍💻 Languages: TypeScript, C#</code>
+<code>🧑‍💻 Languages: JavaScript, TypeScript, C#</code>
 <code>🎯 Skills: React Native</code>
 <code>📖 Currently learning: NodeJS</code><br>
 <code>🏗️ Contributions</code>
