@@ -1,7 +1,7 @@
 # My Projects
 
 ### Task-master
-**[Repository](https://github.com/stbestichhh/task-master-cli) | [Latest Release](https://github.com/stbestichhh/task-master-cli/releases/tag/v0.0.1) | [Instalation](https://github.com/stbestichhh/task-master-cli/blob/master/README.md#installation)**
+**[Repository](https://github.com/stbestichhh/task-master-cli) | [Latest Release](https://github.com/stbestichhh/task-master-cli/releases/tag/v0.0.5) | [Instalation](https://github.com/stbestichhh/task-master-cli/blob/master/README.md#installation)**
 
 ### Flowly-backend
 **[Repository](https://github.com/stbestichhh/Flowly-backend) | [Latest Release](https://github.com/stbestichhh/Flowly-backend/releases/tag/v0.0.1) | [Installation](https://github.com/stbestichhh/Flowly-backend?tab=readme-ov-file#installation)**
